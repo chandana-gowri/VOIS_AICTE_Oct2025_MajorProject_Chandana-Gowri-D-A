@@ -12,7 +12,7 @@ The top 10 countries are selected based on the number of entries in the dataset.
 
 Stacked Bar Chart: Shows movies and TV shows stacked for each country.
 
-Custom Colors: Uses the "Set3" colormap for a visually appealing chart.
+Custom Colors: Uses the "Dark2" colormap for a visually appealing chart.
 
 Readable Labels: X-axis labels are rotated for better readability.
 
